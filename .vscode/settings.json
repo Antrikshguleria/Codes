@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "__bit_reference": "cpp",
+        "climits": "cpp",
+        "vector": "cpp",
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "filesystem": "cpp",
+        "__config": "cpp",
+        "unordered_map": "cpp",
+        "queue": "cpp",
+        "new": "cpp",
+        "typeinfo": "cpp"
+    },
+    "cmake.sourceDirectory": "/Users/antrikshguleria/Downloads/code/vcpkg/ports/angle/cmake-buildsystem"
+}
